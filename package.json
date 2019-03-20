@@ -1,0 +1,18 @@
+{
+  "name": "bot2test",
+  "version": "0.0.1",
+  "description": "Bot2Test - Le bot pour les nuls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"node index.js\" && exit 2"
+  },
+  "author": "Alphaleadership",
+  "license": "MIT",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^11.4.2",
+    "moment": "^2.24.0",
+    "ms": "file:ms"
+  },
+  "devDependencies": {}
+}
